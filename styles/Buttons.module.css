@@ -1,0 +1,23 @@
+.button {
+  outline: none;
+  border: none;
+  background: #6b62ff;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.buttonBig {
+  outline: none;
+  border: none;
+  background: #6b62ff;
+  color: #fff;
+  border-radius: 16px;
+  padding: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
